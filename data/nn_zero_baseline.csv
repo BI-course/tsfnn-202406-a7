@@ -1,4 +1,4 @@
 ,Epochs run (average),Best epoch (average),Best validation loss,Validation loss of predicting zero,Learned something? (network < zero)
 LSTM,12.3,4.3,1.224,1.218,False
-GRU,14.6,6.6,1.239,1.218,False
-CNN,15.0,7.0,1.215,1.218,True
+GRU,14.5,6.6,1.239,1.218,False
+CNN,12.9,5.4,1.215,1.218,True

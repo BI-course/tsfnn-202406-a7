@@ -5,6 +5,4 @@ Moving average (20 days),13.20917,9.01761,3.23614,0.48882,-4.37355,21.57972,0.0,
 Simple exponential smoothing,5.16742,3.37604,1.26546,0.50899,0.01381,-1.27565,0.20221,No significant difference,0.4023
 "ARIMA(0,1,0)",5.15598,3.35728,1.26201,,0.0,,,Same as naive (all forecasts are 0),
 "ARMA(1,0), own past only",5.19821,3.38675,1.26867,0.53266,0.00271,-0.31198,0.75509,No significant difference,0.00194
-"ARMAX(1,0), 7 predictors",5.18175,3.38126,1.26693,0.52828,0.00834,-0.75693,0.44917,No significant difference,0.00735
-Ridge,5.35704,3.53506,1.33546,0.50943,-0.07768,3.35457,0.00081,Significantly WORSE than naive,0.37919
-Gradient boosting,5.19699,3.38397,1.26803,0.52784,-0.00407,0.4635,0.64305,No significant difference,0.00832
+"ARMAX(1,0), 7 predictors",5.18175,3.38126,1.26693,0.52828,0.00833,-0.75691,0.44918,No significant difference,0.00735

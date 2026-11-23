@@ -44,9 +44,9 @@
 
 | **Details**                                                                                        | **Comment** |
 |:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+| **Student ID:**                                                                                    |    158733         |
+| **Name:**                                                                                          |    Brandon Nthiwa   |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |     I contributed to WP5, where I worked on multi-horizon stock forecasting using MSFT data and prepared the forecast exports for Power BI. I generated 63-day forecasts, evaluated model performance across different horizons, and interpreted the results by comparing them with the naive forecast. I also learned how to evaluate forecasting models, interpret prediction intervals, work with Python notebooks, and prepare data for visualization in Power BI.  https://github.com/BI-course/tsfnn-202406-a7/tree/feature/brandon|
 
 ## Scenario
 
