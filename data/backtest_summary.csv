@@ -1,0 +1,5 @@
+Model,Cost per trade (bp),Annual return,Annual volatility,Sharpe ratio
+Gradient boosting,0,0.23,0.289,0.795
+Gradient boosting,5,0.178,0.289,0.614
+Gradient boosting,10,0.125,0.289,0.433
+Buy and hold,0,0.228,0.289,0.788
