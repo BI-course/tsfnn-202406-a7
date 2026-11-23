@@ -14,7 +14,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
 OUTPUT_DIR = PROJECT_ROOT / "outputs"
 
-TARGET_TICKER = "GOOGL"
+TARGET_TICKER = "MSFT"
 # TARGET_TICKER = "NVDA"
 
 # ---------------------------------------------------------------------------
@@ -37,7 +37,7 @@ TARGET_TICKER = "GOOGL"
 # ---------------------------------------------------------------------------
 PREDICTOR_TICKERS = {
     "SP500": "^GSPC",
-    "TECH": "XLK",
+    "TECH": "XLF",
     "VIX": "^VIX",
     "US10Y": "^TNX",
     "USD": "DX-Y.NYB",
@@ -49,7 +49,7 @@ PREDICTOR_TICKERS = {
 # numbers. END is exclusive (Yahoo Finance convention), so the last trading
 # day in the snapshot is specified.
 SNAPSHOT_START = "2015-01-01"
-SNAPSHOT_END = "2026-11-10"
+SNAPSHOT_END = "2026-11-23"
 
 # Predictors are forward filled for at most this many days. This covers days
 # when one market was open and another was closed (public holidays).
@@ -64,5 +64,5 @@ SEED = 42
 # them here means that notebooks 3, 4, 6 and 7 are scored on the same days and
 # can therefore be compared fairly.
 # ---------------------------------------------------------------------------
-INITIAL_TRAIN = 1000   # rows in the first training block (about four years)
+INITIAL_TRAIN = 500   # rows in the first training block (about four years)
 TEST_SIZE = 63         # rows in each test block (about one quarter)
