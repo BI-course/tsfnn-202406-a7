@@ -36,9 +36,9 @@
 
 | **Details**                                                                                        | **Comment** |
 |:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+| **Student ID:**                                                                                    |   169231          |
+| **Name:**                                                                                          |   Andre Oduor     |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |   I contributed to WP4, where I worked on stock forecasting using LSTM, GRU and CNN models. I evaluated model performance, tested different configurations and backtested trading strategies with transaction costs. I also learned how to train neural networks, assess forecasting accuracy and interpret trading performance.  https://github.com/BI-course/tsfnn-202406-a7/tree/feature/andre      |
 
 **Member 5**
 
